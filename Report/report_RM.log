@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.3.13)  13 MAR 2026 09:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.3.13)  31 MAR 2026 23:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -229,17 +229,7 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/usr/share/texmf-dist/tex/latex/anysize/anysize.sty
-Package: anysize 1994/08/13 setting margin sizes
-
-document style option `anysize' loaded
-Michael Salzenberg, Thomas Esser, Dirk Hillbrecht
-Version 1.0, Aug 13, 1994
-\@Leftmargin=\dimen175
-\@Rightmargin=\dimen176
-\@Topmargin=\dimen177
-\@Bottommargin=\dimen178
-) (/usr/share/texmf-dist/tex/latex/appendix/appendix.sty
+)) (/usr/share/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \c@@pps=\count294
 \c@@ppsavesec=\count295
@@ -250,14 +240,14 @@ Package: cancel 2013/04/12 v2.2 Cancel math terms
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
  (/usr/share/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen179
-\captionmargin=\dimen180
-\caption@leftmargin=\dimen181
-\caption@rightmargin=\dimen182
-\caption@width=\dimen183
-\caption@indent=\dimen184
-\caption@parindent=\dimen185
-\caption@hangindent=\dimen186
+\caption@tempdima=\dimen175
+\captionmargin=\dimen176
+\caption@leftmargin=\dimen177
+\caption@rightmargin=\dimen178
+\caption@width=\dimen179
+\caption@indent=\dimen180
+\caption@parindent=\dimen181
+\caption@hangindent=\dimen182
 Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count297
@@ -285,23 +275,23 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \@temptokenb=\toks30
 ) (/usr/share/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen187
-\lightrulewidth=\dimen188
-\cmidrulewidth=\dimen189
-\belowrulesep=\dimen190
-\belowbottomsep=\dimen191
-\aboverulesep=\dimen192
-\abovetopsep=\dimen193
-\cmidrulesep=\dimen194
-\cmidrulekern=\dimen195
-\defaultaddspace=\dimen196
+\heavyrulewidth=\dimen183
+\lightrulewidth=\dimen184
+\cmidrulewidth=\dimen185
+\belowrulesep=\dimen186
+\belowbottomsep=\dimen187
+\aboverulesep=\dimen188
+\abovetopsep=\dimen189
+\cmidrulesep=\dimen190
+\cmidrulekern=\dimen191
+\defaultaddspace=\dimen192
 \@cmidla=\count299
 \@cmidlb=\count300
-\@aboverulesep=\dimen197
-\@belowrulesep=\dimen198
+\@aboverulesep=\dimen193
+\@belowrulesep=\dimen194
 \@thisruleclass=\count301
 \@lastruleclass=\count302
-\@thisrulewidth=\dimen199
+\@thisrulewidth=\dimen195
 ) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
@@ -312,21 +302,21 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@cnth=\count303
 \Gm@cntv=\count304
 \c@Gm@tempcnt=\count305
-\Gm@bindingoffset=\dimen256
-\Gm@wd@mp=\dimen257
-\Gm@odd@mp=\dimen258
-\Gm@even@mp=\dimen259
-\Gm@layoutwidth=\dimen260
-\Gm@layoutheight=\dimen261
-\Gm@layouthoffset=\dimen262
-\Gm@layoutvoffset=\dimen263
+\Gm@bindingoffset=\dimen196
+\Gm@wd@mp=\dimen197
+\Gm@odd@mp=\dimen198
+\Gm@even@mp=\dimen199
+\Gm@layoutwidth=\dimen256
+\Gm@layoutheight=\dimen257
+\Gm@layouthoffset=\dimen258
+\Gm@layoutvoffset=\dimen259
 \Gm@dimlist=\toks31
 ) (/usr/share/texmf-dist/tex/latex/circuitikz/circuitikz.sty
 Package: circuitikz 2025/01/10{} The CircuiTikz circuit drawing package version 1.7.1
  (/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks32
-\pgfutil@tempdima=\dimen264
-\pgfutil@tempdimb=\dimen265
+\pgfutil@tempdima=\dimen260
+\pgfutil@tempdimb=\dimen261
 ) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box58
 ) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/share/texmf-dist/tex/generic/pgf/pgf.revision.tex)
@@ -341,16 +331,16 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks35
 ))
-\pgf@x=\dimen266
-\pgf@y=\dimen267
-\pgf@xa=\dimen268
-\pgf@ya=\dimen269
-\pgf@xb=\dimen270
-\pgf@yb=\dimen271
-\pgf@xc=\dimen272
-\pgf@yc=\dimen273
-\pgf@xd=\dimen274
-\pgf@yd=\dimen275
+\pgf@x=\dimen262
+\pgf@y=\dimen263
+\pgf@xa=\dimen264
+\pgf@ya=\dimen265
+\pgf@xb=\dimen266
+\pgf@yb=\dimen267
+\pgf@xc=\dimen268
+\pgf@yc=\dimen269
+\pgf@xd=\dimen270
+\pgf@yd=\dimen271
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
 \c@pgf@counta=\count306
@@ -378,7 +368,7 @@ File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen276
+\pgfmath@dimen=\dimen272
 \pgfmath@count=\count313
 \pgfmath@box=\box59
 \pgfmath@toks=\toks39
@@ -388,28 +378,28 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 \c@pgfmathroundto@lastzeros=\count314
 )) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen277
-\pgf@picmaxx=\dimen278
-\pgf@picminy=\dimen279
-\pgf@picmaxy=\dimen280
-\pgf@pathminx=\dimen281
-\pgf@pathmaxx=\dimen282
-\pgf@pathminy=\dimen283
-\pgf@pathmaxy=\dimen284
-\pgf@xx=\dimen285
-\pgf@xy=\dimen286
-\pgf@yx=\dimen287
-\pgf@yy=\dimen288
-\pgf@zx=\dimen289
-\pgf@zy=\dimen290
+\pgf@picminx=\dimen273
+\pgf@picmaxx=\dimen274
+\pgf@picminy=\dimen275
+\pgf@picmaxy=\dimen276
+\pgf@pathminx=\dimen277
+\pgf@pathmaxx=\dimen278
+\pgf@pathminy=\dimen279
+\pgf@pathmaxy=\dimen280
+\pgf@xx=\dimen281
+\pgf@xy=\dimen282
+\pgf@yx=\dimen283
+\pgf@yy=\dimen284
+\pgf@zx=\dimen285
+\pgf@zy=\dimen286
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen291
-\pgf@path@lasty=\dimen292
+\pgf@path@lastx=\dimen287
+\pgf@path@lasty=\dimen288
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen293
-\pgf@shorten@start@additional=\dimen294
+\pgf@shorten@end@additional=\dimen289
+\pgf@shorten@start@additional=\dimen290
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box60
@@ -418,12 +408,12 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picture@serial@count=\count315
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen295
+\pgflinewidth=\dimen291
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen296
-\pgf@pt@y=\dimen297
-\pgf@pt@temp=\dimen298
+\pgf@pt@x=\dimen292
+\pgf@pt@y=\dimen293
+\pgf@pt@temp=\dimen294
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
@@ -432,10 +422,10 @@ File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen299
+\pgfarrowsep=\dimen295
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen300
+\pgf@max=\dimen296
 \pgf@sys@shading@range@num=\count316
 \pgf@shadingcount=\count317
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
@@ -458,14 +448,14 @@ File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen301
-\pgf@nodesepend=\dimen302
+\pgf@nodesepstart=\dimen297
+\pgf@nodesepend=\dimen298
 ) (/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )) (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen303
-\pgffor@skip=\dimen304
+\pgffor@iter=\dimen299
+\pgffor@skip=\dimen300
 \pgffor@stack=\toks42
 \pgffor@toks=\toks43
 )) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
@@ -473,16 +463,16 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@plot@mark@count=\count318
-\pgfplotmarksize=\dimen305
+\pgfplotmarksize=\dimen301
 )
-\tikz@lastx=\dimen306
-\tikz@lasty=\dimen307
-\tikz@lastxsaved=\dimen308
-\tikz@lastysaved=\dimen309
-\tikz@lastmovetox=\dimen310
-\tikz@lastmovetoy=\dimen311
-\tikzleveldistance=\dimen312
-\tikzsiblingdistance=\dimen313
+\tikz@lastx=\dimen302
+\tikz@lasty=\dimen303
+\tikz@lastxsaved=\dimen304
+\tikz@lastysaved=\dimen305
+\tikz@lastmovetox=\dimen306
+\tikz@lastmovetoy=\dimen307
+\tikzleveldistance=\dimen308
+\tikzsiblingdistance=\dimen309
 \tikz@figbox=\box65
 \tikz@figbox@bg=\box66
 \tikz@tempbox=\box67
@@ -504,47 +494,47 @@ File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowinset=\dimen314
-\pgfarrowlength=\dimen315
-\pgfarrowwidth=\dimen316
-\pgfarrowlinewidth=\dimen317
+\pgfarrowinset=\dimen310
+\pgfarrowlength=\dimen311
+\pgfarrowwidth=\dimen312
+\pgfarrowlinewidth=\dimen313
 ) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybending.code.tex
 File: tikzlibrarybending.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulebending.code.tex
 File: pgfmodulebending.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulenonlineartransformations.code.tex
 File: pgfmodulenonlineartransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgftransformnonlinearflatness=\dimen318
+\pgftransformnonlinearflatness=\dimen314
 ) (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibrarycurvilinear.code.tex
 File: pgflibrarycurvilinear.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@curvilinear@time@a=\dimen319
-\pgf@curvilinear@length@a=\dimen320
-\pgf@curvilinear@length@b=\dimen321
-\pgf@curvilinear@length@c=\dimen322
-\pgf@curvilinear@length@d=\dimen323
+\pgf@curvilinear@time@a=\dimen315
+\pgf@curvilinear@length@a=\dimen316
+\pgf@curvilinear@length@b=\dimen317
+\pgf@curvilinear@length@c=\dimen318
+\pgf@curvilinear@length@d=\dimen319
 )
-\pgf@arrows@the@rigidity=\dimen324
+\pgf@arrows@the@rigidity=\dimen320
 )) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfpu.code.tex (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)) (/usr/share/texmf-dist/tex/generic/circuitikz/pgfcirc.defines.tex
 \pgf@circ@count@a=\count327
 \pgf@circ@count@b=\count328
 \pgf@circ@count@c=\count329
-\pgf@circ@res@up=\dimen325
-\pgf@circ@res@down=\dimen326
-\pgf@circ@res@zero=\dimen327
-\pgf@circ@res@left=\dimen328
-\pgf@circ@res@right=\dimen329
-\pgf@circ@res@other=\dimen330
-\pgf@circ@res@step=\dimen331
-\pgf@circ@res@temp=\dimen332
-\pgf@circ@Rlen=\dimen333
-\pgf@circ@scaled@Rlen=\dimen334
-\pgfstartlinewidth=\dimen335
+\pgf@circ@res@up=\dimen321
+\pgf@circ@res@down=\dimen322
+\pgf@circ@res@zero=\dimen323
+\pgf@circ@res@left=\dimen324
+\pgf@circ@res@right=\dimen325
+\pgf@circ@res@other=\dimen326
+\pgf@circ@res@step=\dimen327
+\pgf@circ@res@temp=\dimen328
+\pgf@circ@Rlen=\dimen329
+\pgf@circ@scaled@Rlen=\dimen330
+\pgfstartlinewidth=\dimen331
 ) (/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircutils.tex
 \ctikz@scratchbox=\box69
 ) (/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircpath.tex) (/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircshapes.tex) (/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircmonopoles.tex) (/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircbipoles.tex) (/usr/share/texmf-dist/tex/generic/circuitikz/pgfcirctripoles.tex
 \pgf@circ@res@count=\count330
 ) (/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircquadpoles.tex) (/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircmultipoles.tex) (/usr/share/texmf-dist/tex/generic/circuitikz/pgfcirclabel.tex) (/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircvoltage.tex
-\pgfcirc@labelshift=\dimen336
+\pgfcirc@labelshift=\dimen332
 ) (/usr/share/texmf-dist/tex/generic/circuitikz/pgfcirccurrent.tex) (/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircflow.tex)) (/usr/share/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count331
@@ -585,7 +575,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ) (/usr/share/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
-\@linkdim=\dimen337
+\@linkdim=\dimen333
 \Hy@linkcounter=\count333
 \Hy@pagecounter=\count334
  (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
@@ -616,15 +606,15 @@ Package hyperref Info: Bookmarks ON on input line 4424.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen338
+\XeTeXLinkMargin=\dimen334
  (/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count337
-\Field@Width=\dimen339
-\Fld@charsize=\dimen340
+\Field@Width=\dimen335
+\Fld@charsize=\dimen336
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -673,7 +663,7 @@ Package: siunitx 2025-02-27 v3.4.6 A comprehensive (SI) units package
 \l__siunitx_number_group_first_int=\count350
 \l__siunitx_number_group_size_int=\count351
 \l__siunitx_number_group_minimum_int=\count352
-\l__siunitx_angle_tmp_dim=\dimen341
+\l__siunitx_angle_tmp_dim=\dimen337
 \l__siunitx_angle_marker_box=\box72
 \l__siunitx_angle_unit_box=\box73
 \l__siunitx_compound_count_int=\count353
@@ -681,23 +671,23 @@ Package: siunitx 2025-02-27 v3.4.6 A comprehensive (SI) units package
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
 )
 \l__siunitx_table_tmp_box=\box74
-\l__siunitx_table_tmp_dim=\dimen342
-\l__siunitx_table_column_width_dim=\dimen343
+\l__siunitx_table_tmp_dim=\dimen338
+\l__siunitx_table_column_width_dim=\dimen339
 \l__siunitx_table_integer_box=\box75
 \l__siunitx_table_decimal_box=\box76
 \l__siunitx_table_uncert_box=\box77
 \l__siunitx_table_before_box=\box78
 \l__siunitx_table_after_box=\box79
-\l__siunitx_table_before_dim=\dimen344
-\l__siunitx_table_carry_dim=\dimen345
+\l__siunitx_table_before_dim=\dimen340
+\l__siunitx_table_carry_dim=\dimen341
 \l__siunitx_unit_tmp_int=\count354
 \l__siunitx_unit_position_int=\count355
 \l__siunitx_unit_total_int=\count356
  (/usr/share/texmf-dist/tex/latex/tools/array.sty
 Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
-\col@sep=\dimen346
+\col@sep=\dimen342
 \ar@mcellbox=\box80
-\extrarowheight=\dimen347
+\extrarowheight=\dimen343
 \NC@list=\toks46
 \extratabsurround=\skip72
 \backup@length=\skip73
@@ -713,12 +703,12 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box82
 \beforetitleunit=\skip74
 \aftertitleunit=\skip75
-\ttl@plus=\dimen348
-\ttl@minus=\dimen349
+\ttl@plus=\dimen344
+\ttl@minus=\dimen345
 \ttl@toksa=\toks47
-\titlewidth=\dimen350
-\titlewidthlast=\dimen351
-\titlewidthfirst=\dimen352
+\titlewidth=\dimen346
+\titlewidthlast=\dimen347
+\titlewidthfirst=\dimen348
 ) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
 Package: tcolorbox 2024/10/22 version 6.4.1 text color boxes
  (/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
@@ -739,7 +729,7 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \c@tcblayer=\count360
 \c@tcolorbox@number=\count361
 \l__tcobox_tmpa_box=\box87
-\l__tcobox_tmpa_dim=\dimen353
+\l__tcobox_tmpa_dim=\dimen349
 \tcb@temp=\box88
 \tcb@temp=\box89
 \tcb@temp=\box90
@@ -758,14 +748,14 @@ Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
 \lst@gtempboxa=\box95
 \lst@token=\toks50
 \lst@length=\count363
-\lst@currlwidth=\dimen354
+\lst@currlwidth=\dimen350
 \lst@column=\count364
 \lst@pos=\count365
-\lst@lostspace=\dimen355
-\lst@width=\dimen356
+\lst@lostspace=\dimen351
+\lst@width=\dimen352
 \lst@newlines=\count366
 \lst@lineno=\count367
-\lst@maxwidth=\dimen357
+\lst@maxwidth=\dimen353
  (/usr/share/texmf-dist/tex/latex/listings/lstpatch.sty
 File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
 ) (/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
@@ -800,16 +790,16 @@ Package: lineno 2025/01/29 line numbers on paragraphs v5.4
 \linenopenalty=\count373
 \output=\toks51
 \linenoprevgraf=\count374
-\linenumbersep=\dimen358
-\linenumberwidth=\dimen359
+\linenumbersep=\dimen354
+\linenumberwidth=\dimen355
 \c@linenumber=\count375
 \c@pagewiselinenumber=\count376
 \c@LN@truepage=\count377
 \c@internallinenumber=\count378
 \c@internallinenumbers=\count379
-\quotelinenumbersep=\dimen360
-\bframerule=\dimen361
-\bframesep=\dimen362
+\quotelinenumbersep=\dimen356
+\bframerule=\dimen357
+\bframesep=\dimen358
 \bframebox=\box98
 \@LN@amsmath@ams@eqpen=\count380
 LaTeX Info: Redefining \\ on input line 3187.
@@ -825,21 +815,21 @@ LaTeX Info: Redefining \\ on input line 3187.
 \c@FV@HighlightLinesStop=\count386
 \FV@LoopCount=\count387
 \FV@NCharsBox=\box101
-\FV@BreakIndent=\dimen363
+\FV@BreakIndent=\dimen359
 \FV@BreakIndentNChars=\count388
-\FV@BreakSymbolSepLeft=\dimen364
+\FV@BreakSymbolSepLeft=\dimen360
 \FV@BreakSymbolSepLeftNChars=\count389
-\FV@BreakSymbolSepRight=\dimen365
+\FV@BreakSymbolSepRight=\dimen361
 \FV@BreakSymbolSepRightNChars=\count390
-\FV@BreakSymbolIndentLeft=\dimen366
+\FV@BreakSymbolIndentLeft=\dimen362
 \FV@BreakSymbolIndentLeftNChars=\count391
-\FV@BreakSymbolIndentRight=\dimen367
+\FV@BreakSymbolIndentRight=\dimen363
 \FV@BreakSymbolIndentRightNChars=\count392
 \c@FancyVerbLineBreakLast=\count393
 \FV@LineBox=\box102
 \FV@LineIndentBox=\box103
 \c@FV@BreakBufferDepth=\count394
-\FV@LineWidth=\dimen368
+\FV@LineWidth=\dimen364
 ) (/usr/share/texmf-dist/tex/latex/latex2pydata/latex2pydata.sty
 Package: latex2pydata 2025/03/03 v0.5.0 latex2pydata - write data to file in Python literal format
 ) (/usr/share/texmf-dist/tex/latex/pgfopts/pgfopts.sty
@@ -861,7 +851,7 @@ File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\arrowsize=\dimen369
+\arrowsize=\dimen365
 )) (/usr/share/texmf-dist/tex/latex/subfiles/subfiles.sty
 Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
  (/usr/share/texmf-dist/tex/latex/import/import.sty
@@ -889,49 +879,49 @@ Package: duckuments 2019-10-03 v0.5 minimal working duckuments
 \g_duckuments_blindduck_end_int=\count402
 ) (/usr/share/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
-\TX@col@width=\dimen370
-\TX@old@table=\dimen371
-\TX@old@col=\dimen372
-\TX@target=\dimen373
-\TX@delta=\dimen374
+\TX@col@width=\dimen366
+\TX@old@table=\dimen367
+\TX@old@col=\dimen368
+\TX@target=\dimen369
+\TX@delta=\dimen370
 \TX@cols=\count403
 \TX@ftn=\toks55
 ) (/usr/share/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen375
+\rotheadsize=\dimen371
 \c@nlinenum=\count404
 \TeXr@lab=\toks56
 ) (./report_RM.aux)
 \openout1 = `report_RM.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count405
-\scratchdimen=\dimen376
+\scratchdimen=\dimen372
 \scratchbox=\box105
 \nofMPsegments=\count406
 \nofMParguments=\count407
 \everyMPshowfont=\toks57
 \MPscratchCnt=\count408
-\MPscratchDim=\dimen377
+\MPscratchDim=\dimen373
 \MPnumerator=\count409
 \makeMPintoPDFobject=\count410
 \everyMPtoPDFconversion=\toks58
@@ -959,20 +949,20 @@ Package caption Info: End \AtBeginDocument code.
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
-* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 688.5567pt, 85.35826pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=418.25368pt
-* \textheight=591.5302pt
-* \oddsidemargin=17.3571pt
-* \evensidemargin=17.3571pt
-* \topmargin=-7.86334pt
-* \headheight=12.0pt
+* \textwidth=483.69687pt
+* \textheight=688.5567pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-38.1381pt
+* \headheight=25.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
@@ -989,33 +979,33 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 129.
+Package hyperref Info: Link coloring ON on input line 131.
 (./report_RM.out) (./report_RM.out)
 \@outlinefile=\write5
 \openout5 = `report_RM.out'.
 
-Package translations Info: no dictionary file `translations-basic-dictionary-portuges.trsl' found. on input line 129.
+Package translations Info: no dictionary file `translations-basic-dictionary-portuges.trsl' found. on input line 131.
  (/usr/share/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
 )
 \c@lstlisting=\count411
-<Images/logoFCT.png, id=9, 1927.2pt x 1084.05pt>
+<Images/logoFCT.png, id=21, 1927.2pt x 1084.05pt>
 File: Images/logoFCT.png Graphic file (type png)
 <use Images/logoFCT.png>
-Package pdftex.def Info: Images/logoFCT.png  used on input line 140.
+Package pdftex.def Info: Images/logoFCT.png  used on input line 142.
 (pdftex.def)             Requested size: 96.36565pt x 54.20567pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 159.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 161.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 159.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 161.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logoFCT.png>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./Images/logoFCT.png>]
 
 [2] (./report_RM.toc)
 \tf@toc=\write6
@@ -1023,51 +1013,187 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 
-<Images/logoFCThor.png, id=28, 3613.5pt x 803.0pt>
+<Images/logoFCThor.png, id=43, 3613.5pt x 803.0pt>
 File: Images/logoFCThor.png Graphic file (type png)
 <use Images/logoFCThor.png>
-Package pdftex.def Info: Images/logoFCThor.png  used on input line 181.
+Package pdftex.def Info: Images/logoFCThor.png  used on input line 183.
 (pdftex.def)             Requested size: 108.40031pt x 24.08896pt.
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
+Package fancyhdr Warning: \headheight is too small (25.0pt): 
 (fancyhdr)                Make it at least 28.439pt, for example:
 (fancyhdr)                \setlength{\headheight}{28.439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-16.439pt}.
+(fancyhdr)                \addtolength{\topmargin}{-3.439pt}.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.181 \newpage
-               [1 <./Images/logoFCThor.png>] (./report_RM.lof)
-\tf@lof=\write7
-\openout7 = `report_RM.lof'.
+l.183 \newpage
+               [1 <./Images/logoFCThor.png>] (./Sections/Parte_1.tex
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 16.
+ (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 16.
+<Images/objetivo1m0.jpeg, id=49, 2564.58125pt x 1551.7975pt>
+File: Images/objetivo1m0.jpeg Graphic file (type jpg)
+<use Images/objetivo1m0.jpeg>
+Package pdftex.def Info: Images/objetivo1m0.jpeg  used on input line 27.
+(pdftex.def)             Requested size: 461.60472pt x 279.3115pt.
+<Images/objetivo1m1.jpeg, id=50, 2564.58125pt x 1551.7975pt>
+File: Images/objetivo1m1.jpeg Graphic file (type jpg)
+<use Images/objetivo1m1.jpeg>
+Package pdftex.def Info: Images/objetivo1m1.jpeg  used on input line 36.
+(pdftex.def)             Requested size: 461.60472pt x 279.3115pt.
 
- (./report_RM.lot)
-\tf@lot=\write8
-\openout8 = `report_RM.lot'.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
 File: Images/logoFCThor.png Graphic file (type png)
 <use Images/logoFCThor.png>
-Package pdftex.def Info: Images/logoFCThor.png  used on input line 187.
+Package pdftex.def Info: Images/logoFCThor.png  used on input line 54.
 (pdftex.def)             Requested size: 108.40031pt x 24.08896pt.
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
+Package fancyhdr Warning: \headheight is too small (25.0pt): 
 (fancyhdr)                Make it at least 28.439pt, for example:
 (fancyhdr)                \setlength{\headheight}{28.439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-16.439pt}.
+(fancyhdr)                \addtolength{\topmargin}{-3.439pt}.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.187 \newpage
-               [2]
-runsystem(latexminted cleantemp  --timestamp 20260313094728Z 42FEB1EE35CDEF769512C872D7CD0FD7)...executed safely (allowed).
+l.54 
+      [2 <./Images/objetivo1m0.jpeg>]
+<Images/objetivo1m4.jpeg, id=60, 2564.58125pt x 1551.7975pt>
+File: Images/objetivo1m4.jpeg Graphic file (type jpg)
+<use Images/objetivo1m4.jpeg>
+Package pdftex.def Info: Images/objetivo1m4.jpeg  used on input line 58.
+(pdftex.def)             Requested size: 461.60472pt x 279.3115pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/objetivo1m8.jpeg, id=62, 2564.58125pt x 1551.7975pt>
+File: Images/objetivo1m8.jpeg Graphic file (type jpg)
+<use Images/objetivo1m8.jpeg>
+Package pdftex.def Info: Images/objetivo1m8.jpeg  used on input line 78.
+(pdftex.def)             Requested size: 461.60472pt x 279.3115pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/objetivo1m12.jpeg, id=63, 2564.58125pt x 1551.7975pt>
+File: Images/objetivo1m12.jpeg Graphic file (type jpg)
+<use Images/objetivo1m12.jpeg>
+Package pdftex.def Info: Images/objetivo1m12.jpeg  used on input line 87.
+(pdftex.def)             Requested size: 461.60472pt x 279.3115pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+File: Images/logoFCThor.png Graphic file (type png)
+<use Images/logoFCThor.png>
+Package pdftex.def Info: Images/logoFCThor.png  used on input line 103.
+(pdftex.def)             Requested size: 108.40031pt x 24.08896pt.
+
+Package fancyhdr Warning: \headheight is too small (25.0pt): 
+(fancyhdr)                Make it at least 28.439pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.439pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.439pt}.
+
+[3 <./Images/objetivo1m1.jpeg>])
+
+File: Images/logoFCThor.png Graphic file (type png)
+<use Images/logoFCThor.png>
+Package pdftex.def Info: Images/logoFCThor.png  used on input line 192.
+(pdftex.def)             Requested size: 108.40031pt x 24.08896pt.
+
+Package fancyhdr Warning: \headheight is too small (25.0pt): 
+(fancyhdr)                Make it at least 28.439pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.439pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.439pt}.
+
+[4 <./Images/objetivo1m4.jpeg>]
+
+File: Images/logoFCThor.png Graphic file (type png)
+<use Images/logoFCThor.png>
+Package pdftex.def Info: Images/logoFCThor.png  used on input line 192.
+(pdftex.def)             Requested size: 108.40031pt x 24.08896pt.
+
+Package fancyhdr Warning: \headheight is too small (25.0pt): 
+(fancyhdr)                Make it at least 28.439pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.439pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.439pt}.
+
+[5 <./Images/objetivo1m8.jpeg> <./Images/objetivo1m12.jpeg>] (./Sections/Parte_2.tex
+<Images/objetivo2_1.jpeg, id=84, 2564.58125pt x 1551.7975pt>
+File: Images/objetivo2_1.jpeg Graphic file (type jpg)
+<use Images/objetivo2_1.jpeg>
+Package pdftex.def Info: Images/objetivo2_1.jpeg  used on input line 16.
+(pdftex.def)             Requested size: 461.60472pt x 279.3115pt.
+<Images/objetivo2_2.jpeg, id=85, 2564.58125pt x 1551.7975pt>
+File: Images/objetivo2_2.jpeg Graphic file (type jpg)
+<use Images/objetivo2_2.jpeg>
+Package pdftex.def Info: Images/objetivo2_2.jpeg  used on input line 25.
+(pdftex.def)             Requested size: 461.60472pt x 279.3115pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+
+File: Images/logoFCThor.png Graphic file (type png)
+<use Images/logoFCThor.png>
+Package pdftex.def Info: Images/logoFCThor.png  used on input line 194.
+(pdftex.def)             Requested size: 108.40031pt x 24.08896pt.
+
+Package fancyhdr Warning: \headheight is too small (25.0pt): 
+(fancyhdr)                Make it at least 28.439pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.439pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.439pt}.
+
+[6
+
+ <./Images/objetivo2_1.jpeg>]
+
+File: Images/logoFCThor.png Graphic file (type png)
+<use Images/logoFCThor.png>
+Package pdftex.def Info: Images/logoFCThor.png  used on input line 194.
+(pdftex.def)             Requested size: 108.40031pt x 24.08896pt.
+
+Package fancyhdr Warning: \headheight is too small (25.0pt): 
+(fancyhdr)                Make it at least 28.439pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.439pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.439pt}.
+
+[7 <./Images/objetivo2_2.jpeg>] (./Sections/Parte_3.tex)
+
+File: Images/logoFCThor.png Graphic file (type png)
+<use Images/logoFCThor.png>
+Package pdftex.def Info: Images/logoFCThor.png  used on input line 201.
+(pdftex.def)             Requested size: 108.40031pt x 24.08896pt.
+
+Package fancyhdr Warning: \headheight is too small (25.0pt): 
+(fancyhdr)                Make it at least 28.439pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.439pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.439pt}.
+
+[8
+
+]
+runsystem(latexminted cleantemp  --timestamp 20260331234023 42FEB1EE35CDEF769512C872D7CD0FD7)...executed safely (allowed).
 
  (./report_RM.aux)
  ***********
@@ -1075,21 +1201,21 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `report_RM.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: BB277D85C46E4076B3BDDA757F1FDCEF;663.
  ) 
 Here is how much of TeX's memory you used:
- 57394 strings out of 475151
- 1365934 string characters out of 5766386
- 2161570 words of memory out of 5000000
- 79727 multiletter control sequences out of 15000+600000
- 568681 words of font info for 74 fonts, out of 8000000 for 9000
+ 57512 strings out of 475151
+ 1368293 string characters out of 5766386
+ 2166410 words of memory out of 5000000
+ 79807 multiletter control sequences out of 15000+600000
+ 567798 words of font info for 68 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 99i,16n,117p,511b,1083s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on report_RM.pdf (4 pages, 199530 bytes).
+ 99i,16n,117p,511b,1225s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on report_RM.pdf (10 pages, 3139766 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 166 PDF objects out of 1000 (max. 8388607)
+ 115 compressed objects within 2 object streams
+ 21 named destinations out of 1000 (max. 500000)
+ 92 words of extra memory for PDF output out of 10000 (max. 10000000)
 

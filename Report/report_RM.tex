@@ -9,8 +9,8 @@
 \usepackage[export]{adjustbox} % Align images
 \usepackage{amsmath} %a Extra commands for math mode
 \usepackage{amssymb} % Mathematical symbols
-\usepackage{anysize} % Per\sonalize margins
-    \marginsize{2cm}{2cm}{2cm}{2cm} % {left}{right}{above}{below}
+%\usepackage{anysize} % Per\sonalize margins
+    %\marginsize{2cm}{2cm}{2cm}{2cm} % {left}{right}{above}{below}
 \usepackage{appendix} % Appendices
 \usepackage{cancel} % Expression cancellation
 \usepackage{caption} % Captions
@@ -19,7 +19,7 @@
 \usepackage{color} % Text coloring
 \usepackage{fancyhdr} % Head note and footnote
 \usepackage{booktabs} % Para linhas horizontais mais bonitas (\toprule, \bottomrule)
-\usepackage{geometry} % Opcional: para ajustar margens se necessário
+\usepackage[a4paper, left=2cm, right=2cm, top=2.5cm, bottom=3cm]{geometry} % Opcional: para ajustar margens se necessário
 \usepackage{circuitikz}
     \pagestyle{fancy}
     \fancyhf{}
@@ -30,6 +30,8 @@
     \fancyfoot[R]{\thepage  } % Center of Footnote
     % \fancyfoot[R]{\footnotesize Degree} % Right of Footnote
     \renewcommand{\footrulewidth}{0.4pt} % Footnote rule
+    %\setlength{\footskip}{12pt}
+    \setlength{\headheight}{25pt}
 \usepackage{float} % Utilization of [H] in figures
 \usepackage{graphicx} % Figures in LaTeX
 \usepackage[colorlinks = true, plainpages = true, linkcolor = novablue, urlcolor = novablue, citecolor = novablue, anchorcolor = novablue]{hyperref}
@@ -143,12 +145,12 @@
     \textsc{\Huge MEEC}\\[2cm]
     \textsc{\LARGE Redes Móveis}\\[1.5cm]
     \HRule\\[0.4cm]
-    {\large \bf {Meter Subtítulo}}\\[0.2cm] % [\texttt{EN}]
+    {\large \bf {Débito do protocolo IEEE 802.11 (Wi-Fi)}}\\[0.2cm] % [\texttt{EN}]
     \HRule\\[1.5cm]
 \end{center}
 
 \begin{flushleft}
-    \textbf{Authors:}
+    \textbf{Autores:}
 \end{flushleft}
 
 \begin{center}
@@ -167,7 +169,7 @@
 \vspace{4cm}
 
 \begin{center}
-    \large \bf 2025/2026 -- \nth{2} Semester - DEEC
+    \large \bf 2025/2026 -- 2º Semestre - DEEC
 \end{center}
 
 
@@ -180,20 +182,17 @@
 
 \newpage
 
-\listoffigures
+%\listoffigures
 
-\listoftables
+%\listoftables
 
-\newpage
+%\newpage
 
-% \subfile{Sections/Introducao.tex}
-% \subfile{Sections/FrontEnd.tex}
-% \subfile{Sections/PMU.tex}
-% \subfile{Sections/DSP.tex}
-% \subfile{Sections/ImplementaçãoBB.tex}
-% \subfile{Sections/PCB.tex}
-% \subfile{Sections/Grafana.tex}
-% \subfile{Sections/Conclusao.tex}
+\subfile{Sections/Parte_1.tex}
+\clearpage
+\subfile{Sections/Parte_2.tex}
+\clearpage
+\subfile{Sections/Parte_3.tex}
 % \newpage
 
 % \bibliography{Bibliografia}

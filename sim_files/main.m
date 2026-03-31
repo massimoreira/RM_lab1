@@ -6,28 +6,14 @@
 %%
 function main
 
-%{
-%%% modo rodas
-
-%% number of nodes
-n_start = 3;
-n_step = 10;
-n_max = 100;
-n_vector = n_start:n_step:n_max;
-%% contention window
-cw_min=16;
-%% stages of retransmission
-m=7;
-
-%}
-
 %%% primeiro objetivo
 n_max = 120;
 n_vector = [5 10 20 40 80 120];
 
 cw_vector = [4 8 16];
-cw_min = 16;
+cw_min = 4;
 
+%% can be 0, 1, 4, 8, 12
 m=12;
 
 
@@ -35,7 +21,7 @@ m=12;
 simulation_time = 10000;%10000
 
 %%%
-%%% prinf all simulation parameters
+%%% print all simulation parameters
 %%%
 printf("===================================================================\n");
 printf(" n=%d \t CW_min=%d \t m=%d \t simulation time =%d\n", n_max, cw_min,m,simulation_time);
@@ -65,7 +51,7 @@ for cw_min = cw_vector
       m_coll(i) = 1 - m_succ(i) - m_idle(i);
 
       %% validation if channel probability is 100%
-      m_coll(i)+m_succ(i)+m_idle(i);
+      %m_coll(i)+m_succ(i)+m_idle(i);
 
       i=i+1;
   end
@@ -140,5 +126,5 @@ ylabel(strcat("Collision Prob - m = ",num2str(m)));
 hold off
 
 
-clear all;
+%clear all;
 end

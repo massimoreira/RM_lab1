@@ -1,0 +1,39 @@
+\section{Terceiro objetivo - qualidade de serviço}
+
+Neste objetivo iremos considerar uma implementação de serviços diferenciados,
+em que cada nó possui 4 categorias de acesso, com 4 janelas mínimas de
+contenção diferentes: $CW_{min0} = 20$, $CW_{min1} =~16$, $CW_{min2} =~10$ e
+$CW_{min3} =~8$. Dentro de cada nó, se 2 categorias
+quiserem aceder ao meio ao mesmo tempo, é dada prioridade à categoria mais
+prioritária.
+
+\vspace{\baselineskip}
+
+Foi necessário fazer uma alteração na simulação para poder suportar os
+serviços diferenciados. Para além disso, realizaram-se 10 simulações,
+cada uma com 20000 iterações (ao contrário das 10000 usadas nos casos
+abordados anteriormente) para aumentar a fiabilidade dos resultados.
+Os valores utilizados na simulação foram 10 nós e \textit{m} = 8.
+Os tamanhos dos slots ultilizados foram $T_{idle} = 1~u.t.$,
+$T_{succ} = 150~u.t.$ e $T_{coll} = 160~u.t.$
+
+\vspace{\baselineskip}
+\begin{table}[h]
+    \centering
+    \begin{tabular}{c|c|c|c}
+        $CW_{min0}$ & $CW_{min1}$ & $CW_{min2}$ & $CW_{min3}$\\
+        \midrule
+        13,75\% & 16,63\% & 28,29\% & 35,37\%
+    \end{tabular}
+    \caption{Valores de débito para cada categoria de acesso}
+    \label{tab:objetivo3}
+\end{table}
+\vspace{\baselineskip}
+
+Os resultados do débito para cada categoria de acesso podem ser observados
+na Tabela \ref{tab:objetivo3}. Podemos observar que as categorias com maior
+prioridade beneficiaram de valores de débito mais altos, como esperado.
+Mesmo assim, as categorias de menor prioridade não foram abafadas pelas de
+maior prioridade, e conseguiram débitos razoáveis. É possível que, para
+outros números de nós na rede e valores de \textit{m}, os resultados não
+fossem tão positivos, por razões já discutidas anteriormente.
